@@ -1,3 +1,3 @@
-function d(){
-    console.log('d')
+function d(...args){
+    console.log(...args)
 }
